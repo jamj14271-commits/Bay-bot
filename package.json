@@ -1,0 +1,14 @@
+{
+  "name": "mc-event-bot",
+  "version": "1.1.0",
+  "main": "bot.js",
+  "scripts": { "start": "node bot.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "mineflayer": "latest",
+    "mineflayer-pathfinder": "latest",
+    "mineflayer-tool": "latest",
+    "minecraft-data": "latest",
+    "vec3": "latest"
+  }
+}
